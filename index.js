@@ -182,6 +182,7 @@ function verifyToken(req, res, next) {
     });
 }
 
+
 // Endpoint for logging out (not required for JWT)
 app.post('/logout', verifyToken, (req, res) => {
     try {
