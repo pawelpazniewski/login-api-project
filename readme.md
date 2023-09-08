@@ -16,7 +16,7 @@ Getting Started:
      - `PORT=3000`
      - `MONGODB_URI=mongodb://localhost/login_API`
      - `SECRET_KEY=YourSecretKeyForJWT`
-   - Modify the values according to your setup.
+   - Modify the values according to your setup
 
 5. Start the Application:
    - `npm start`
